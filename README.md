@@ -12,6 +12,7 @@ A lightweight utility for converting text to uppercase, cleaning up HTML tags, a
 - [Usage](#usage)
 - [Building from Source](#building-from-source)
 - [AHKv2 Integration](#ahkv2-integration)
+- [Kardenwort Ecosystem](#kardenwort-ecosystem)
 - [License](#license)
 
 ---
@@ -81,6 +82,12 @@ The executable will be located in the `dist/` directory.
 For a more seamless workflow, you can use the **[uppercase.ahk](https://github.com/voothi/20240411110510-autohotkey/blob/main/uppercase.ahk)** script.
 
 [Return to Top](#uppercase-utility)
+
+## Kardenwort Ecosystem
+
+This project is part of the **[Kardenwort](https://github.com/kardenwort)** environment, designed to create a focused and efficient learning ecosystem.
+
+[Return to Top](#table-of-contents)
 
 ## License
 MIT License. See LICENSE file for details.
